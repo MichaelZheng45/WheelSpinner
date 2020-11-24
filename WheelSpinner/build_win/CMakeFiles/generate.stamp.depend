@@ -1,0 +1,28 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.19/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.19/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.19/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.19/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.19/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.19/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.19/Modules/CMakeParseArguments.cmake
+C:/Program Files/CMake/share/cmake-3.19/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.19/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.19/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.19/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.19/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.19/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.19/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.19/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.19/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.19/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.19/Modules/Platform/WindowsPaths.cmake
+C:/Users/micha/Desktop/WheelSpinner/WheelSpinner/CMakeLists.txt
+C:/Users/micha/Desktop/WheelSpinner/WheelSpinner/build_win/CMakeFiles/3.19.0/CMakeCCompiler.cmake
+C:/Users/micha/Desktop/WheelSpinner/WheelSpinner/build_win/CMakeFiles/3.19.0/CMakeCXXCompiler.cmake
+C:/Users/micha/Desktop/WheelSpinner/WheelSpinner/build_win/CMakeFiles/3.19.0/CMakeRCCompiler.cmake
+C:/Users/micha/Desktop/WheelSpinner/WheelSpinner/build_win/CMakeFiles/3.19.0/CMakeSystem.cmake
+C:/Users/micha/Desktop/WheelSpinner/WheelSpinner/cocos2d/cmake/Modules/CocosBuildHelpers.cmake
+C:/Users/micha/Desktop/WheelSpinner/WheelSpinner/cocos2d/cmake/Modules/CocosBuildSet.cmake
+C:/Users/micha/Desktop/WheelSpinner/WheelSpinner/cocos2d/cmake/Modules/CocosConfigDefine.cmake
+C:/Users/micha/Desktop/WheelSpinner/WheelSpinner/cocos2d/cmake/Modules/CocosConfigDepend.cmake
