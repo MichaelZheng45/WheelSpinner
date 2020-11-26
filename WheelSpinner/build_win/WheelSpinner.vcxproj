@@ -115,7 +115,8 @@
       <ProxyFileName>%(Filename)_p.c</ProxyFileName>
     </Midl>
     <PostBuildEvent>
-      <Message>												</Message>
+      <Message>
+      </Message>
       <Command>setlocal
 "C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/micha/Desktop/WheelSpinner/WheelSpinner/cocos2d/external/openssl/prebuilt/win32/libssl-1_1.dll C:/Users/micha/Desktop/WheelSpinner/WheelSpinner/build_win/bin/WheelSpinner/Debug/libssl-1_1.dll
 if %errorlevel% neq 0 goto :cmEnd
@@ -279,7 +280,8 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <ProxyFileName>%(Filename)_p.c</ProxyFileName>
     </Midl>
     <PostBuildEvent>
-      <Message>												</Message>
+      <Message>
+      </Message>
       <Command>setlocal
 "C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/micha/Desktop/WheelSpinner/WheelSpinner/cocos2d/external/openssl/prebuilt/win32/libssl-1_1.dll C:/Users/micha/Desktop/WheelSpinner/WheelSpinner/build_win/bin/WheelSpinner/Release/libssl-1_1.dll
 if %errorlevel% neq 0 goto :cmEnd
@@ -443,7 +445,8 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <ProxyFileName>%(Filename)_p.c</ProxyFileName>
     </Midl>
     <PostBuildEvent>
-      <Message>												</Message>
+      <Message>
+      </Message>
       <Command>setlocal
 "C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/micha/Desktop/WheelSpinner/WheelSpinner/cocos2d/external/openssl/prebuilt/win32/libssl-1_1.dll C:/Users/micha/Desktop/WheelSpinner/WheelSpinner/build_win/bin/WheelSpinner/MinSizeRel/libssl-1_1.dll
 if %errorlevel% neq 0 goto :cmEnd
@@ -606,7 +609,8 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <ProxyFileName>%(Filename)_p.c</ProxyFileName>
     </Midl>
     <PostBuildEvent>
-      <Message>												</Message>
+      <Message>
+      </Message>
       <Command>setlocal
 "C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/micha/Desktop/WheelSpinner/WheelSpinner/cocos2d/external/openssl/prebuilt/win32/libssl-1_1.dll C:/Users/micha/Desktop/WheelSpinner/WheelSpinner/build_win/bin/WheelSpinner/RelWithDebInfo/libssl-1_1.dll
 if %errorlevel% neq 0 goto :cmEnd
@@ -796,10 +800,14 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\Classes\Wheel_Slot.h" />
+    <ClInclude Include="..\Classes\Wheel_Spinner.h" />
     <ClInclude Include="C:\Users\micha\Desktop\WheelSpinner\WheelSpinner\Classes\AppDelegate.h" />
     <ClInclude Include="C:\Users\micha\Desktop\WheelSpinner\WheelSpinner\Classes\HelloWorldScene.h" />
     <ClInclude Include="C:\Users\micha\Desktop\WheelSpinner\WheelSpinner\proj.win32\main.h" />
     <ClInclude Include="C:\Users\micha\Desktop\WheelSpinner\WheelSpinner\proj.win32\resource.h" />
+    <ClCompile Include="..\Classes\Wheel_Slot.cpp" />
+    <ClCompile Include="..\Classes\Wheel_Spinner.cpp" />
     <ClCompile Include="C:\Users\micha\Desktop\WheelSpinner\WheelSpinner\Classes\AppDelegate.cpp" />
     <ClCompile Include="C:\Users\micha\Desktop\WheelSpinner\WheelSpinner\Classes\HelloWorldScene.cpp" />
     <ClCompile Include="C:\Users\micha\Desktop\WheelSpinner\WheelSpinner\proj.win32\main.cpp" />
