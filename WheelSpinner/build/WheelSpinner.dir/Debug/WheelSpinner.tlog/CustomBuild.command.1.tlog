@@ -1,0 +1,10 @@
+^C:\USERS\MICHA\DESKTOP\WHEELSPINNER\WHEELSPINNER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/micha/Desktop/WheelSpinner/WheelSpinner -BC:/Users/micha/Desktop/WheelSpinner/WheelSpinner/build --check-stamp-file C:/Users/micha/Desktop/WheelSpinner/WheelSpinner/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

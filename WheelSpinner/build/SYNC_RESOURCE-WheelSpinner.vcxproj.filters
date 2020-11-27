@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\micha\Desktop\WheelSpinner\WheelSpinner\build\CMakeFiles\f3f1403d4195b095d119f744ae5c7b59\SYNC_RESOURCE-WheelSpinner.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\micha\Desktop\WheelSpinner\WheelSpinner\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\micha\Desktop\WheelSpinner\WheelSpinner\build\CMakeFiles\SYNC_RESOURCE-WheelSpinner" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4D1BDF0D-C6F8-3120-A3AB-6ECA3977CD43}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
